@@ -1,0 +1,12 @@
+<div class="announcement">
+  <h2>{{ page.title }}</h2>
+  <span class="announcement-meta">
+    {% if page.date %}
+    {{ page.date | date: '%b %e' }}
+    &middot;
+    {% endif %}
+  </span>
+  <div>
+    {{ content }}
+  </div>
+</div>

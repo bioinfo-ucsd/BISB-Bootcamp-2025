@@ -1,0 +1,33 @@
+.module {
+  @extend %card;
+  background-color: white;
+
+  h1, h2 {
+    @extend .text-gamma;
+  }
+
+  .module-meta {
+    @extend .text-epsilon;
+  }
+
+  &.mod{
+    background-color: rgb(199, 236, 248);
+  }
+
+  &.break {
+    background-color: rgb(237, 237, 237);
+  }
+
+  &.program{
+    background-color: rgb(206, 239, 206);
+  }
+
+  &.social {
+    background-color: rgb(247, 224, 247);
+  }
+
+  &.other {
+    background-color: rgb(255, 255, 255);
+  }
+
+}

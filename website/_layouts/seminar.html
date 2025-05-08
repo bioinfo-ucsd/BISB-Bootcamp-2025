@@ -1,0 +1,33 @@
+<div>
+  {% for seminar in page.seminars %}
+  <div class="announcement">
+    <h2><a id="{{ seminar.date }}"></a>{{ seminar.date | date: "%A, %B %d" }}&emsp;
+    {% if seminar.flyer %}
+    <a href="{{ site.baseurl }}{{ page.subpath }}{{ seminar.flyer }}">Flyer</a>&emsp;
+    {% endif %}
+    {% if seminar.recording %}
+    <a href="{{ seminar.recording }}">Recording</a>&emsp;
+    {% endif %}
+    </h2>
+    {% for talk in seminar.talks %}
+    <div class="staffer">
+      {% if talk.photo %}
+      <img class="staffer-image" src="{{ site.baseurl }}{{ page.subpath }}{{ talk.photo }}" alt="">
+      {% endif %}
+      <div>
+        <p>{{ talk.speaker }}</p>
+        <p>{{ talk.speaker_title }}</p>
+        <p><b>{{ talk.talk_title }}</b></p>
+        {% if talk.keywords %}
+        <p>Research terms: {{ talk.keywords }} </p>
+        {% endif %}
+        {% if talk.website %}
+        <p><a href="{{ talk.website }}">{{ talk.website | remove: "https://" | remove: "http://" }}</a></p>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+  {% endfor %}
+</div>
+
