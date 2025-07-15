@@ -23,9 +23,9 @@ See the [Computer Accounts and Resources](https://bioinformatics.ucsd.edu/node/3
 
 ## Enroll in Fall courses
 
-The Schedule of Classes, which lists courses available for the quarter, for Fall 2023 will be made available on **May 23rd**.
+The Schedule of Classes, which lists courses available for the quarter, for Fall 2025 will be made available on **May**.
 
-You can find the Schedule of Classes, along with other important services, on the [My TritonLink Tools page](https://students.ucsd.edu/my-tritonlink/tools/index.html). You will be able to enroll in classes beginning **May 26th, at 8:00 AM PST**.
+You can find the Schedule of Classes, along with other important services, on the [My TritonLink Tools page](https://students.ucsd.edu/my-tritonlink/tools/index.html). You will be able to enroll in classes beginning **May**.
 
 You may enroll in courses online using WebReg, which can also be found on My TritonLink Tools. You can find enrollment dates, and many other important dates and deadlines, on the [UCSD Enrollment & Registration Calendar](https://students.ucsd.edu/academics/enroll/calendar23-24.html). We highly recommended you bookmark this page to stay up-to-date on important deadlines.
 
