@@ -32,3 +32,45 @@ seminars:
     photo: nathan_lewis.jpg
     keywords: Systems biology, Cell engineering, Biotechnology
     website: https://lewislab.ucsd.edu/
+- date: "2025-08-21"
+  talks:
+  - speaker: Tal Einav, PhD
+    speaker_title: Professor, La Jolla Institute for Immunology
+    talk_title: "\"Creating Personalized Vaccines for Influenza and other Viruses\""
+    keywords: immunology, machine learning, influenza virus
+  - speaker: Ruben Abagyan, PhD
+    speaker_title: Professor, Skaggs School of Pharmaceutical Sciences
+    talk_title: "\"Finding New Drugs in Chemical Universe & 3D proteome\""
+    keywords: drug discovery, HPC computing, ligand docking
+  - speaker: Jason Sicklick, MD
+    speaker_title: Professor, Department of Surgery
+    talk_title: "\"Cancer Genomics and Precision Oncology - Bench to Bedside and Back\""
+    keywords: cancer, transcriptomics, translation
+  - speaker: Jill Mesirov, PhD
+    speaker_title: Professor, School of Medicine Division of Medical Genetics
+    talk_title: "\"Cancer Genomics and Precision Oncology - Bench to Bedside and Back\""
+    keywords: cancer, transcriptomics, translation
+  - speaker: Trey Ideker, PhD
+    speaker_title: Professor, Department of Medicine
+    talk_title: "\"Digital Tumor Cells for Precision Oncology\""
+    keywords: cancer, genomics, machine learning, artificial intelligence
+- date: "2025-08-28"
+  talks:
+  - speaker: Theresa Guo, MD
+    speaker_title: Assistant Professor, Department of Otolaryngology
+    talk_title: "\"Identifying Aberrant Splicing Events in Cancer as a Source of Strong Neoantigens\""
+    keywords: cancer, splicing, neoantigens
+  - speaker: Sheng Zhong, PhD
+    speaker_title: Professor, Department of Bioengineering
+    talk_title: "\"AI-powered drug discovery for Alzheimer's Disease\""
+    keywords: genomics, brain organoids, Alzheimer's, artificial intelligence
+- date: "2025-09-04"
+  talks:
+  - speaker: Shankar Subramaniam, PhD
+    speaker_title: Professor, Department of Bioengineering
+    talk_title: "\"Systems Medicine - Insights into Cancer and Neurodegeneration\""
+    keywords: systems biology, triple-negative breast cancer, Alzheimer's
+  - speaker: Pallav Kosuri, PhD
+    speaker_title: Assistant Professor, Salk Institute
+    talk_title: "\"DNA Origami Movement Microscopy and Single-cell Spatial Omics\""
+    keywords: spatial transcriptomics, DNA origami, single-molecule biophysics
