@@ -93,7 +93,7 @@ These students will sit on a panel for Q&A during the Internships session
 
 *Since the BISB Student Discord is completely student-run, we ask that you do not share the invite link with faculty or staff members.*
 
-**For questions about specifics of the program and program requirements,** please contact our wonderful program coordinator, Fran Perez Estrada! Another helpful contact, especially for financial matters, is Elizabeth Soos, the Student Affairs Manager for our program and the Department of Bioengineering.
+**For questions about specifics of the program and program requirements,** please contact the Student Affairs Manager Vanessa Hollingsworth (bisbsupport@ucsd.edu and cc vkhollin@ucsd.edu).
 
 ## Credits
 
@@ -104,3 +104,5 @@ Bootcamp content is either newly generated or adapted from previous years' work.
 - Cameron Martino, 2020-2021
 - Owen Chapman, 2019-2020
 - Jessica Zhou, 2018-2019
+
+Past bootcamp instructors from 2023 & 2024 also contributed to the foundation of this content.
