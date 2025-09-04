@@ -165,7 +165,7 @@ schedule:
         location: MET 141
         start: '1:00 PM'
         end: '1:30 PM'
-      - name: Intro to NGS and Benchwork
+      - name: "Module 8: Intro to NGS and Benchwork"
         type: mod
         location: MET 141
         start: '1:30 PM'
