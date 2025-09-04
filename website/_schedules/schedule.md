@@ -55,19 +55,19 @@ schedule:
         location: MET 204
         start: "1:00 PM"
         end: "1:30 PM"
-      - name: "Understanding Virtual Environments"
-        fullname: "Understanding Virtual Environments"
+      - name: "Module 1: Understanding Virtual Environments"
+        fullname: "Module 1: Understanding Virtual Environments"
         type: mod
         location: MET 204
         start: '1:30 PM'
         end: '2:30 PM'
-      - name: "How to choose an advisor/international student breakouts"
-        fullname: "How to choose an advisor/international student breakouts"
+      - name: "Guest Speakers: How to choose an advisor/international student breakouts"
+        fullname: "Guest Speakers: How to choose an advisor/international student breakouts"
         type: program
         location: MET 204
         start: '2:30 PM'
         end: '3:30 PM'
-      - name: "Mini module: Course Recommendation"
+      - name: "Module 2: Course Recommendation"
         type: mod
         location: MET 204
         start: 3:30 PM
@@ -82,7 +82,7 @@ schedule:
         location: MET 223
         instructors: ['Amy Sitapati, *DBMI Director*']
         description: 'For our BMI students, welcome! Dr. Amy Sitapti will introduce the Department of Biomedical Informatics (DBMI) at UCSD. Researchers from BISB and BMI often get to work together so this a great opportunity for both BISB and BMI students to learn more about the DBMI.'
-      - name: "Introduction to Stats"
+      - name: "Module 3: Introduction to Stats"
         type: mod
         location: MET 223
         start: '9:45 AM'
