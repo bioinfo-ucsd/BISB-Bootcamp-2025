@@ -1,6 +1,4 @@
 #!/bin/bash
 
-conda env create -n bootcamp -f env.yml # runtime: ~13min
-~/.conda/envs/bootcamp/bin/python3 -m ipykernel install --user --name=python_bootcamp --display-name="Python 3 (bootcamp)"
-Rscript -e 'IRkernel::installspec(name="R_bootcamp", displayname="R (bootcamp)")'
-
+mamba env create -n bootcamp -f env.yml # runtime: ~2min, requires conda install mamba in (base)
+                                        #try to run first thing Monday morning either local or Datahub
