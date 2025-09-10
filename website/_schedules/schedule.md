@@ -118,17 +118,17 @@ schedule:
         type: mod
         start: '10:45 AM'
         end: '12:00 PM'
-    - name: Lunch
+      - name: Lunch
         type: break
         start: '12:00 PM'
         end: '1:00 PM'
-    - name: "Module 7B: Software - Part 2"
+      - name: "Module 7B: Software - Part 2"
         fullname: "Module 7B: Software - Part 2"
         location: MET 141
         type: mod
         start: '1:00 PM'
         end: '2:00 PM'
-    - name: "Predoctoral Fellowships"
+      - name: "Predoctoral Fellowships"
         fullname: "Getting Paid: Predoctoral Fellowships"
         type: other
         location: MET 141
