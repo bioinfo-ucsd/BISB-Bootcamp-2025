@@ -85,15 +85,6 @@ These students will sit on a panel for Q&A during the Internships session
 {% endfor %}
 {% endif %}
 
-## Choosing an Advisor
-
-These students will talk about choosing an Advisor
-
-{% for staffer in interns %}
-{{ staffer }}
-{% endfor %}
-{% endif %}
-
 ## Questions?
 
 **For questions about bootcamp,** please contact the bootcamp instructors!

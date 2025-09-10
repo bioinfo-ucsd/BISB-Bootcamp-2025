@@ -1,6 +1,7 @@
 ---
 name: Kiki Spaulding
-role: Choosing an Advisor
+role: Guest Instructor
+session: ["Breakout: Choosing a PhD Advisor"]
 email: kspaulding@ucsd.edu
 advisor: ["Louise Laurent"]
 title: 5th year BISB PhD student
