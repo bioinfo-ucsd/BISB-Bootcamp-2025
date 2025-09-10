@@ -55,8 +55,8 @@ schedule:
         location: MET 204
         start: "1:00 PM"
         end: "1:30 PM"
-      - name: "Module 1: Understanding Virtual Environments"
-        fullname: "Module 1: Understanding Virtual Environments"
+      - name: "Ice-breakers"
+        fullname: "Ice-breakers"
         type: mod
         location: MET 204
         start: '1:30 PM'
@@ -112,30 +112,23 @@ schedule:
         location: MET 141
         start: '9:30 AM'
         end: '10:30 AM'
-      - name: "Bioinformatics Problem Sets"
-        fullname: "Module 5: Bioinformatics Problem Sets"
+      - name: "Module 7A: Your Virtual Environment"
+        fullname: "Module 7A: Your Virtual Environment"
+        location: MET 141
         type: mod
-        location: MET 141
-        start: '10:30 AM'
-        end: '11:30 AM'
-        description: "In this module, you and a partner will be given a relatively simple problem to solve from the [Rosalind Bioinformatics Project](https://urldefense.com/v3/__http://rosalind.info/about/__;!!Mih3wA!DxMGYatEO54sg5ijkSMxFKZi6A-SI7OvcOySNT7CONsVE67sy0_bXt5UL0Ig60P2zPkFgvCTzrcB-AP7ZzIY$ )’s textbook track and bioinformatics stronghold track. By the end of this module, you should: 1. Have a working solution for your problem prepared! 2. Have a short slide (in this presentation) explaining your code along with a fun fact about yourselves!"
-      - name: "Mental Health"
-        fullname: "Mental Health in Graduate School"
-        type: other
-        location: MET 141
-        start: '11:30 AM'
+        start: '10:45 AM'
         end: '12:00 PM'
-      - name: Lunch
+    - name: Lunch
         type: break
         start: '12:00 PM'
         end: '1:00 PM'
-      - name: "Module 6: Data Science (AI & Plotting)"
-        fullname: "Module 6: Data Science (AI & Plotting)"
+    - name: "Module 7B: Software - Part 2"
+        fullname: "Module 7B: Software - Part 2"
         location: MET 141
         type: mod
         start: '1:00 PM'
         end: '2:00 PM'
-      - name: "Predoctoral Fellowships"
+    - name: "Predoctoral Fellowships"
         fullname: "Getting Paid: Predoctoral Fellowships"
         type: other
         location: MET 141
@@ -144,14 +137,21 @@ schedule:
   - name: Thursday 
     date: '2025-09-18'
     events:
-      - name: "Module 7A: Software - Part 1"
-        fullname: "Module 7A: Software - Part 1"
-        location: MET 141
+      - name: "Module 5: Bioinformatics Problem Sets"
+        fullname: "Module 5: Bioinformatics Problem Sets"
         type: mod
+        location: MET 141
         start: '9:30 AM'
-        end: '10:45 AM'
-      - name: "Module 7B: Software - Part 2"
-        fullname: "Module 7B: Software - Part 2"
+        end: '10:30 AM'
+        description: "In this module, you and a partner will be given a relatively simple problem to solve from the [Rosalind Bioinformatics Project](https://urldefense.com/v3/__http://rosalind.info/about/__;!!Mih3wA!DxMGYatEO54sg5ijkSMxFKZi6A-SI7OvcOySNT7CONsVE67sy0_bXt5UL0Ig60P2zPkFgvCTzrcB-AP7ZzIY$ )’s textbook track and bioinformatics stronghold track. By the end of this module, you should: 1. Have a working solution for your problem prepared! 2. Have a short slide (in this presentation) explaining your code along with a fun fact about yourselves!"
+      - name: "Mental Health"
+        fullname: "Mental Health in Graduate School"
+        type: other
+        location: MET 141
+        start: '10:30 AM'
+        end: '11:00 AM'
+      - name: "Module 6: Data Science (AI & Plotting)"
+        fullname: "Module 6: Data Science (AI & Plotting)"
         location: MET 141
         type: mod
         start: '11:00 AM'
@@ -160,21 +160,16 @@ schedule:
         type: break
         start: '12:00 PM'
         end: '1:00 PM'
-      - name: DEI at UCSD and BISB
-        type: program
-        location: MET 141
-        start: '1:00 PM'
-        end: '1:30 PM'
       - name: "Module 8: Intro to NGS and Benchwork"
         type: mod
         location: MET 141
-        start: '1:30 PM'
-        end: '2:30 PM'
+        start: '1:00 PM'
+        end: '2:00 PM'
       - name: The BISB Guide to San Diego
         type: other
         location: MET 141
-        start: '2:30 PM'
-        end: '3:30 PM'
+        start: '2:00 PM'
+        end: '3:00 PM'
   - name: Friday
     date: '2025-09-19'
     events:
