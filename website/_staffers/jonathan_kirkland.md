@@ -6,5 +6,5 @@ email: jokirkland@ucsd.edu
 advisor: ["Rob Knight"]
 title: 3rd year BISB PhD student
 pronouns: he/him
-photo: jonathan_kirkland.jpg
+photo: jonathan_kirkland.png
 ---
