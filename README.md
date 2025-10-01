@@ -18,3 +18,5 @@ To contribute to the course materials, please follow the instructions at [./modu
 ## Adapting this repository for future iterations of BISB Bootcamp
 
 Click [Use this template](https://github.com/bioinfo-ucsd/BISB-Bootcamp-2025/generate) to create a new repo for a future bootcamp. Then edit away!
+
+Also, remember to coordinate with GBIC's Director of External Affairs to add the first years' GitHub accounts to the [bioinfo-ucsd org](https://github.com/bioinfo-ucsd) so that they can be properly authenticated for the software engineering module!
